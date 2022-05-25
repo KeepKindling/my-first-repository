@@ -2,6 +2,8 @@
 
 Welcome! [code institute](https://codeinstitute.net)
 
+Follow my first website! [my first repository](https://keepkindling.github.io/my-first-repository/)
+
 ## What is this website for?
 
 I have created this website to portray my beginnings of my journey through code and the code-institute course. It also shows off some basic knowledge of html and css. 
